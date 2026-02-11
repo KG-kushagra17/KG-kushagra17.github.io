@@ -1,116 +1,79 @@
 schema: hugoblox/author/v1
 slug: me
 is_owner: true
+
 name:
-  display: Dr. Alex Johnson
-  given: Alex
-  family: Johnson
-  alternate: ''  # Example: 王伟
-  pronunciation: ''  # Example: Wáng Wěi
+  display: Kushagra Gupta
+  given: Kushagra
+  family: Gupta
   pronouns: he/him
-postnominals:
-  - PhD
-  - MIEEE
+
 status:
   icon: "☕️"
-role: Senior AI Research Scientist
+
+role: B.Tech Student | AI Enthusiast
+
 bio: |
-  Alex Johnson is a Senior AI Research Scientist at Meta AI. His research
-  has been published in top conferences like NeurIPS and ICML, with over
-  10,000 citations. Alex is passionate about pushing the boundaries of AI
-  while ensuring ethical development.
+  I am a Bachelor of Technology student at Manipal Institute of Technology (2025–2029) with a strong interest in Artificial Intelligence and Machine Learning.
+  Currently part of Project MANAS under the Research AI subsystem at MIT Manipal.
+  Previously contributed to Mars Rover Manipal in the Research AI subsystem, where I explored regression models, SVM, unsupervised learning, and neural network basics.
+  Actively learning AI models and improving my programming and data science skills.
 
 affiliations:
-  - name: Meta AI
-    url: https://ai.meta.com/
+  - name: Manipal Institute of Technology
+    url: https://manipal.edu/mit.html
 
 links:
-  - icon: at-symbol
-    url: mailto:alex.johnson@example.com
-    label: E-mail Me
-  - icon: brands/x
-    url: https://x.com/example
   - icon: brands/github
-    url: https://github.com/example
+    url: https://github.com/KG-kushagra17
+    label: GitHub
   - icon: brands/linkedin
-    url: https://www.linkedin.com/in/example/
-  - icon: academicons/google-scholar
-    url: https://scholar.google.com/citations?user=example
-  - icon: academicons/orcid
-    url: https://orcid.org/0000-0002-1825-0097
+    url: https://www.linkedin.com/in/kushagra-gupta-a00aa9388/
+    label: LinkedIn
 
 interests:
-  - Large Language Models
-  - Computer Vision
-  - Reinforcement Learning
-  - AI Ethics
+  - Artificial Intelligence
+  - Machine Learning
+  - Quantum Computing
 
 education:
-  - degree: PhD Computer Science
-    institution: Stanford University
-    start: 2015-09-01
-    end: 2019-06-30
+  - degree: Bachelor of Technology
+    institution: Manipal Institute of Technology
+    start: 2025-01-01
+    end: 2029-12-31
     summary: |
-      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
-    button:
-      text: Download dissertation
-      url: /resume.pdf
-      icon: hero/arrow-down-tray
-  - degree: MS Computer Science
-    institution: Carnegie Mellon University
-    start: 2013-09-01
-    end: 2015-05-31
-  - degree: BS Computer Science
-    institution: MIT
-    start: 2009-09-01
-    end: 2013-05-31
+      Undergraduate student focusing on AI, ML, and software development.
 
 experience:
-  - role: Senior AI Research Scientist
-    org: Meta AI
-    start: 2020-01-01
+  - role: Research AI Taskphase Member
+    org: Project MANAS, MIT Manipal
     summary: |
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models.
-    button:
-      text: View portfolio
-      url: /
-      icon: hero/arrow-down-tray
-  - role: AI Research Intern
-    org: OpenAI
-    start: 2019-06-01
-    end: 2019-12-31
+      Currently working under the Research AI subsystem, learning AI models and contributing to student-led research projects.
+
+  - role: Research AI Taskphase Member
+    org: Mars Rover Manipal
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Learned regression models, SVM, unsupervised learning, and neural network fundamentals while contributing to rover autonomy research.
 
 skills:
-  - name: Technical Skills
+  - name: Programming & Data
     items:
+      - label: Java
+        level: 4
+      - label: C
+        level: 3
       - label: Python
-        level: 5
-      - label: Machine Learning
-        level: 5
-      - label: Cloud Computing
         level: 4
-  - name: Research & Communication
-    items:
-      - label: Academic Writing
-        level: 5
-      - label: Conference Presentations
-        level: 4
-      - label: Grant Proposals
-        level: 4
+      - label: NumPy
+        level: 3
+      - label: Pandas
+        level: 3
+      - label: Matplotlib
+        level: 3
+      - label: Seaborn
+        level: 3
 
 languages:
   - name: English
     level: 5
-    label: Native
-  - name: Spanish
-    level: 4
     label: Fluent
-
-awards:
-  - title: Best Paper Award
-    awarder: NeurIPS
-    date: "2022-12-01"
-    summary: Awarded for groundbreaking work on efficient training of large models.
-    icon: hero/trophy
