@@ -9,27 +9,34 @@ name:
   pronouns: he/him
 
 status:
-  icon: "☕️"
+  icon: "📚"
 
-role: B.Tech Student | AI Enthusiast
+role: Undergraduate Student — Computer Science & Engineering
 
 bio: |
-  I am a Bachelor of Technology student at Manipal Institute of Technology (2025–2029) with a strong interest in Artificial Intelligence and Machine Learning.
-  Currently part of Project MANAS under the Research AI subsystem at MIT Manipal.
-  Previously contributed to Mars Rover Manipal in the Research AI subsystem, where I explored regression models, SVM, unsupervised learning, and neural network basics.
-  Actively learning AI models and improving my programming and data science skills.
+  Undergraduate Computer Science and Engineering student at Manipal Institute of Technology.
+  AI enthusiast learning machine learning models and data science tools.
+  Currently in taskphase under Project MANAS (Research AI subsystem), a student project at MIT Manipal.
+  Previously a taskphase member of Mars Rover Manipal (Research AI subsystem), where I learned regression models,
+  SVM, unsupervised learning, and neural network fundamentals.
 
 affiliations:
   - name: Manipal Institute of Technology
     url: https://manipal.edu/mit.html
 
 links:
+  - icon: at-symbol
+    url: mailto:kushagrakg17a@gmail.coom
+    label: Email
+
   - icon: brands/github
     url: https://github.com/KG-kushagra17
     label: GitHub
+
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/kushagra-gupta-a00aa9388/
     label: LinkedIn
+
 
 interests:
   - Artificial Intelligence
@@ -37,12 +44,14 @@ interests:
   - Quantum Computing
 
 education:
-  - degree: Bachelor of Technology
-    institution: Manipal Institute of Technology
-    start: 2025-01-01
-    end: 2029-12-31
+  - degree: Bachelor of Technology (B.Tech) in Computer Science and Engineering
+    institution: Manipal Institute of Technology, Manipal
+    start: 2025-07-01
+    end: 2029-05-31
     summary: |
-      Undergraduate student focusing on AI, ML, and software development.
+      Undergraduate student majoring in Computer Science and Engineering. 
+      AI enthusiast currently working under Project MANAS (Research AI subsystem) at MIT Manipal.
+
 
 experience:
   - role: Research AI Taskphase Member
